@@ -1,4 +1,2 @@
 # repo-exercise
-
-Hello
-=======
+<h1>Programming with JavaScript (Coursera)</h1>
