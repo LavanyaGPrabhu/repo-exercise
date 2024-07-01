@@ -1,3 +1,14 @@
+/**
+ * Reduce in array
+ * The reduce() method executes a reducer function (that you provide) on each element of the array, resulting in a single output value.
+ * The reducer function takes four arguments:
+ * 1. Accumulator
+ * 2. Current Value
+ * 3. Current Index (optional)
+ * 4. Source Array (optional)
+ * The reduce() method can accept an initial value as the second argument.
+ */
+
 const arrOfNum=[1,2,3,4,5,6,7,8,9,10];
 const arrOfStr=["a","ab","abc","abcd","a","ab"];
 const arrOfObj=[{name:"John",age:25},{name:"Jane",age:30},{name:"Jack",age:35},{name:"Jill",age:40},{name:"John",age:45},{name:"Jane",age:60},{name:"Jack",age:65}];

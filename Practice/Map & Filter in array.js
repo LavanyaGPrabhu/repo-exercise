@@ -1,3 +1,16 @@
+/**
+ * Map in array
+ * The map() method creates a new array populated with the results of calling a provided function on every element in the calling array.
+ * The map() method does not change the original array.
+ * The map() method can accept an initial value as the second argument.
+ */
+/**
+ * Filter in array
+ * The filter() method creates a new array with all elements that pass the test implemented by the provided function.
+ * The filter() method does not change the original array.
+ * The filter() method can accept an initial value as the second argument.
+ * 
+ */
 const arrOfNum=[1,2,3,4,5,6,7,8,9,10];
 const arrOfStr=["a","b","c","d","e","f","g","h","i","j"];
 const arrOfObj=[{name:"John",age:25},{name:"Jane",age:30},{name:"Jack",age:35},{name:"Jill",age:40}];

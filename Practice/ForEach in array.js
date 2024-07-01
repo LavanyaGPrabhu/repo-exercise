@@ -1,3 +1,10 @@
+/**
+ * ForEach in array
+ * The forEach() method executes a provided function once for each array element.
+ * forEach() does not mutate the array on which it is called.
+ * forEach() does not return a value.
+ */
+
 const arrOfNum=[1,2,3,4,5,6,7,8,9,10];
 const arrOfStr=["a","ab","aBc","Abcd"];
 const arrOfObj=[{name:"John",age:25},{name:"Jane",age:30},{name:"Jack",age:35},{name:"Jill",age:40}];
