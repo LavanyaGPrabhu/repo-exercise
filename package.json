@@ -4,7 +4,7 @@
   "description": "<h1>Programming with JavaScript (Coursera)</h1>",
   "main": "timesTwo.js",
   "scripts": {
-    "test-vitest": "vitest Practice/findInArray.test.js",
+    "test-vitest": "vitest Practice",
     "test-jest": "jest Module4/Programming Assignment ( Writing a Unit Test)/jest-testing",
     "start": "ts-node Practice/Map & Filter in array.js",
     "lint": "eslint .",
