@@ -9,7 +9,8 @@
       "Module3",
       "Module4",
       "Module5",
-      "Practice"
+      "Practice",
+      "Test"
     ],
     "includePattern": ".+\\.js(doc|x)?$",
     "excludePattern": "(^|\\/|\\\\)_"
